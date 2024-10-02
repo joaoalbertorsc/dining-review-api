@@ -87,8 +87,4 @@ O banco de dados H2 é inicializado com o arquivo `data.sql`, que contém dados 
 
 ## Autor
 
-- **Seu Nome**
-  
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+- **joaoalbertorsc**
